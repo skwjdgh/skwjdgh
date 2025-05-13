@@ -11,7 +11,6 @@
 - Python
 - SQL
 - JavaScript
-- Django
 - Machine Learning
   
 ---

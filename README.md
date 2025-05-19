@@ -134,6 +134,9 @@
 
 ---
 
+![나정호's GitHub stats](https://github-readme-stats.vercel.app/api?username=skwjdgh)
+![trophy](https://github-profile-trophy.vercel.app/?username=skwjdgh&theme=radical)
+---
 
 ```mermaid
 gantt
@@ -171,8 +174,4 @@ gantt
   JAVA 언어 정리 및 분석        :active, 2025-06-01, 2025-09-30
   R 언어 정리 및 분석      :planned, 2025-07-01, 2025-07-30
 
----
 
-![나정호's GitHub stats](https://github-readme-stats.vercel.app/api?username=skwjdgh)
-![trophy](https://github-profile-trophy.vercel.app/?username=skwjdgh&theme=radical)
----

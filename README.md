@@ -21,12 +21,13 @@
 ### ⚙️ 기술 스택
 
 ## 🛠️ 주요 언어
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwjdgh&layout=compact&theme=radical)
 - Python
 - SQL
 - JavaScript
 - Java
 - C
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwjdgh&layout=compact&theme=radical)
+
 
 ## 🛠️ 개발환경
 
@@ -134,7 +135,7 @@
 ---
 
 ![나정호's GitHub stats](https://github-readme-stats.vercel.app/api?username=skwjdgh)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=skwjdgh&theme=radical)
 ---
 
 

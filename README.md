@@ -26,6 +26,7 @@
 - JavaScript
 - Java
 - C
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwjdgh&layout=compact&theme=radical)
 
 ## 🛠️ 개발환경
 
@@ -133,7 +134,7 @@
 ---
 
 ![나정호's GitHub stats](https://github-readme-stats.vercel.app/api?username=skwjdgh)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwjdgh&layout=compact&theme=radical)
+
 ---
 
 

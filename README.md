@@ -8,7 +8,7 @@
 특히 스페인 산티아고 순례길을 걸으며 끈기와 관찰력, 그리고 다양한 시각을 이해하는 태도를 배울 수 있었습니다.
 이러한 경험들은 문제를 더 깊이 있게 바라보고, 기술을 사람 중심으로 연결하는 개발자로 성장하는 데 소중한 밑거름이 되고 있습니다.
 
-![나정호's GitHub stats](https://github-readme-stats.vercel.app/api?username=skwjdgh)
+
 
 ---
 
@@ -131,6 +131,11 @@
 4. **(12월까지)**: 프로그래머스 문제풀이 → GitHub에 보기 좋게 정리
 
 ---
+
+![나정호's GitHub stats](https://github-readme-stats.vercel.app/api?username=skwjdgh)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwjdgh&layout=compact&theme=radical)
+---
+
 
 ```mermaid
 gantt

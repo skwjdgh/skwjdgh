@@ -18,9 +18,9 @@
 - 데이터베이스: SQL을 통한 데이터 분석, 모델링 및 성능 최적화
 
 ---
-### ⚙️ 기술 스택
+## ⚙️ 기술 스택
 
-## 🛠️ 주요 언어
+### 🛠️ 주요 언어
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwjdgh&layout=compact&theme=radical)
 - Python
 - SQL
@@ -29,7 +29,7 @@
 - C
 
 
-## 🛠️ 개발환경
+### 🛠️ 개발환경
 
 - 운영체제: 🪟 Windows 11  
 - 개발도구: 💻 VS Code, IntelliJ, PyCharm  

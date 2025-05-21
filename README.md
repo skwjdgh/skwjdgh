@@ -182,4 +182,6 @@ gantt
   JAVA 언어 정리 및 분석        :active, 2025-06-01, 2025-09-30
   R 언어 정리 및 분석      :planned, 2025-07-01, 2025-07-30
 
+```
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=&descAlign=59&section=footer">

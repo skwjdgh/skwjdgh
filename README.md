@@ -183,5 +183,5 @@ gantt
   R 언어 정리 및 분석      :planned, 2025-07-01, 2025-07-30
 
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=&descAlign=59&section=footer">
+<p align='center'>
+      <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=&descAlign=59&section=footer">

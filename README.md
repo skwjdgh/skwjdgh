@@ -24,7 +24,7 @@
 ### 🛠️ 주요 언어
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwjdgh&layout=compact&theme=radical)
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&link=www.naver.com)  
 - ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=openjdk&logoColor=white)  
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)  
 - ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)

@@ -9,8 +9,6 @@
 특히 스페인 산티아고 순례길을 걸으며 끈기와 관찰력, 그리고 다양한 시각을 이해하는 태도를 배울 수 있었습니다.
 이러한 경험들은 문제를 더 깊이 있게 바라보고, 기술을 사람 중심으로 연결하는 개발자로 성장하는 데 소중한 밑거름이 되고 있습니다.
 
-
-
 ---
 
 ## 💡 관심 있는 분야
@@ -19,30 +17,17 @@
 - 데이터베이스: SQL을 통한 데이터 분석, 모델링 및 성능 최적화
 
 ---
-## ⚙️ 기술 스택
 
-### 🛠️ 주요 언어
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwjdgh&layout=compact&theme=radical)
+## 💻 진행 중인 프로젝트
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&link=www.naver.com)  
-- ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=openjdk&logoColor=white)  
-- ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)  
-- ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)  
-- ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)  
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white)  
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+1. **한이음 공모전 - 공공기반 AI 키오스크 (25년 중)**  
+   - AI agent 기반 공공기관 목적용 AI 키오스크을 개발 중입니다.
+     
+2. **미래내일 일자리(25년 중)**  
 
-
-
-### 🛠️ 개발환경
-
-- 운영체제: 🪟 Windows 11  
-- 개발도구: 💻 VS Code, IntelliJ, PyCharm  
-- 빌드/배포:  
-- 가상화: 🐳 Docker
-- 클라우드: 
+3. **(개인1)(계획)인공지능 기술를 활용한 전력 관리 시스템(25년 중)**
+   - 인공지능 기술을 활용해 전력망 관리 시스템 개발을 목표로 합니다.
+     
 ---
 
 ## 💼 경력 사항
@@ -104,20 +89,41 @@
 - 빅데이터분석기사 (8–12월 중)
 - 전기산업기사 (7–9월 중)
 - 영어 자격증 (토익, 토스), 한국사, KBS 한국어 *(재취득 예정)*
-- JPT
   
 ---
 
-## 💻 진행 중인 프로젝트
+## ⚙️ 기술 스택
 
-1. **한이음 공모전 - 공공기반 AI 키오스크 (25년 중)**  
-   - AI agent 기반 공공기관 목적용 AI 키오스크을 개발 중입니다.
-     
-2. **미래내일 일자리(25년 중)**  
+### 🛠️ 주요 언어
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwjdgh&layout=compact&theme=radical)
 
-3. **(개인1)(계획)인공지능 기술를 활용한 전력 관리 시스템(25년 중)**
-   - 인공지능 기술을 활용해 전력망 관리 시스템 개발을 목표로 합니다.
-     
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&link=www.naver.com)  
+- ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=openjdk&logoColor=white)  
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)  
+- ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)  
+- ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+
+
+
+### 🛠️ 개발환경
+
+- 운영체제: 🪟 Windows 11  
+- 개발도구: 💻 VS Code, IntelliJ, PyCharm  
+- 빌드/배포:  
+- 가상화: 🐳 Docker
+- 클라우드:
+  
+---
+
+### 이 Github의 구조
+
+
+
+
 ---
 
 ## 추가목표

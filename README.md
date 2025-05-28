@@ -122,37 +122,67 @@
 ### 🔧 이 Github의 구조
 
 
-```mermaid
-graph LR
-  A["[skwjdgh](https://github.com/skwjdgh)"] --> A1["[README.md](https://github.com/skwjdgh/skwjdgh/blob/main/README.md)"]
 
-  A --> B["projects/"]
-  B --> B1["[ai-kiosk](https://github.com/skwjdgh/ai-kiosk)"]
-  B --> B2["[future-job](https://github.com/skwjdgh/future-job)"]
-  B --> B3["[power-management](https://github.com/skwjdgh/power-management)"]
+```
+skwjdgh/
+├── README.md                        # 전체 소개 및 포트폴리오 요약
+│
+├── projects/                        # 프로젝트별 폴더
+│   ├── ai-kiosk/
+│   │   ├── README.md
+│   │   └── ... (관련 코드/문서)
+│   ├── future-job/
+│   │   ├── README.md
+│   │   └── ... (관련 코드/문서)
+│   └── power-management/
+│       ├── README.md
+│       └── ... (관련 코드/문서)
+│
+├── portfolio/                       # 포트폴리오 웹/시각화 자료
+│   ├── web/
+│   └── visualization/
+│
+├── study/                           # 기술/언어별 학습 정리
+│   ├── Front/ <https://github.com/skwjdgh/Front>
+│   │   ├── README.md
+│   │   ├── html-css/ <https://github.com/skwjdgh/Web101_study>
+│   │   │   ├── README.md
+│   │   │   └── ... 
+│   │   └── javascript/
+│   │       ├── README.md
+│   │       └── ... 
+│   │
+│   ├── Back/ <https://github.com/skwjdgh/Back>
+│   │   ├── README.md
+│   │   ├── python/ <https://github.com/skwjdgh/Python101_study>
+│   │   │   ├── homework/ <https://github.com/skwjdgh/Python101_homework>
+│   │   │   ├── README.md
+│   │   │   └── ... 
+│   │   ├── java/ <https://github.com/skwjdgh/JAVA101_study>
+│   │   │   ├── README.md
+│   │   │   └── ... 
+│   │   ├── c/ <https://github.com/skwjdgh/C101_study>
+│   │   │   ├── README.md
+│   │   │   └── ... 
+│   │   └── sql/ <https://github.com/skwjdgh/Database101_study>
+│   │       └── README.md
+│   │
+│   └── External/
+│       ├── README.md
+│       ├── r/
+│       │   ├── README.md
+│       │   └── ... (기초/활용)
+│       ├── seminar/ <https://github.com/skwjdgh/related-with-AI-semi->
+│       │   ├── README.md
+│       │   └── ... (세미나/실습/정리)
+│       └── tools/ <https://github.com/skwjdgh/Tools>
+│           ├── vscode.md
+│           ├── docker.md
+│           └── cloud.md
+│
+└── programmers-ex/ <https://github.com/skwjdgh/Programmers-ex>                # 문제풀이 정리
 
-  A --> C["portfolio/"]
-  C --> C1["web/"]
-  C --> C2["visualization/"]
 
-  A --> D["study/"]
-  D --> D1["[Front](https://github.com/skwjdgh/Front)"]
-  D1 --> D1a["[html-css](https://github.com/skwjdgh/Web101_study)"]
-  D1 --> D1b["javascript/"]
-  
-  D --> D2["[Back](https://github.com/skwjdgh/Back)"]
-  D2 --> D2a["[python](https://github.com/skwjdgh/Python101_study)"]
-  D2a --> D2a1["[homework](https://github.com/skwjdgh/Python101_homework)"]
-  D2 --> D2b["[java](https://github.com/skwjdgh/JAVA101_study)"]
-  D2 --> D2c["[c](https://github.com/skwjdgh/C101_study)"]
-  D2 --> D2d["[sql](https://github.com/skwjdgh/Database101_study)"]
-
-  D --> D3["External/"]
-  D3 --> D3a["r/"]
-  D3 --> D3b["[seminar](https://github.com/skwjdgh/related-with-AI-semi-)"]
-  D3 --> D3c["[tools](https://github.com/skwjdgh/Tools)"]
-
-  A --> E["[programmers-ex](https://github.com/skwjdgh/Programmers-ex)"]
 ```
 
 ---

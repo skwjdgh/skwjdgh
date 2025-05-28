@@ -199,10 +199,10 @@ skwjdgh/
 4. **(12월까지)**: 프로그래머스 문제풀이 → GitHub에 보기 좋게 정리
 
 ---
-<p align='center'>
+
 ![나정호's GitHub stats](https://github-readme-stats.vercel.app/api?username=skwjdgh)
 ![trophy](https://github-profile-trophy.vercel.app/?username=skwjdgh&theme=radical)
-</p>
+
 ---
 
 ```mermaid

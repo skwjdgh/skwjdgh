@@ -97,8 +97,7 @@
 ### 🛠️ 주요 언어
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwjdgh&layout=compact&theme=radical)
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&link=www.naver.com)  
-- ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=openjdk&logoColor=white)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&link=www.naver.com)  ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=openjdk&logoColor=white)  
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)  
 - ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)  
@@ -207,10 +206,10 @@ skwjdgh/
 4. **(12월까지)**: 프로그래머스 문제풀이 → GitHub에 보기 좋게 정리
 
 ---
-
+<p align='center'>
 ![나정호's GitHub stats](https://github-readme-stats.vercel.app/api?username=skwjdgh)
 ![trophy](https://github-profile-trophy.vercel.app/?username=skwjdgh&theme=radical)
-
+</p>
 ---
 
 ```mermaid

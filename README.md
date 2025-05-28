@@ -183,6 +183,48 @@ skwjdgh/
 
 ```
 
+skwjdgh/
+├── [README.md](./README.md)                        # 전체 소개 및 포트폴리오 요약
+│
+├── projects/
+│   ├── [ai-kiosk](projects/ai-kiosk/)/
+│   │   └── [README.md](projects/ai-kiosk/README.md)
+│   ├── [future-job](projects/future-job/)/
+│   │   └── [README.md](projects/future-job/README.md)
+│   └── [power-management](projects/power-management/)/
+│       └── [README.md](projects/power-management/README.md)
+│
+├── portfolio/
+│   ├── [web](portfolio/web/)
+│   └── [visualization](portfolio/visualization/)
+│
+├── study/
+│   ├── [Front](https://github.com/skwjdgh/Front)/
+│   │   ├── [html-css](https://github.com/skwjdgh/Web101_study)/
+│   │   └── [javascript](study/Front/javascript/)
+│   │       └── [README.md](study/Front/javascript/README.md)
+│   │
+│   ├── [Back](https://github.com/skwjdgh/Back)/
+│   │   ├── [python](https://github.com/skwjdgh/Python101_study)/
+│   │   │   ├── [homework](https://github.com/skwjdgh/Python101_homework)/
+│   │   │   └── [README.md](https://github.com/skwjdgh/Python101_study/blob/main/README.md)
+│   │   ├── [java](https://github.com/skwjdgh/JAVA101_study)/
+│   │   ├── [c](https://github.com/skwjdgh/C101_study)/
+│   │   └── [sql](https://github.com/skwjdgh/Database101_study)/
+│   │       └── [README.md](https://github.com/skwjdgh/Database101_study/blob/main/README.md)
+│   │
+│   └── External/
+│       ├── [README.md](study/External/README.md)
+│       ├── r/
+│       │   └── [README.md](study/External/r/README.md)
+│       ├── [seminar](https://github.com/skwjdgh/related-with-AI-semi-)/
+│       │   └── [README.md](https://github.com/skwjdgh/related-with-AI-semi-/blob/main/README.md)
+│       └── [tools](https://github.com/skwjdgh/Tools)/
+│           ├── [vscode.md](https://github.com/skwjdgh/Tools/blob/main/vscode.md)
+│           ├── [docker.md](https://github.com/skwjdgh/Tools/blob/main/docker.md)
+│           └── [cloud.md](https://github.com/skwjdgh/Tools/blob/main/cloud.md)
+│
+└── [programmers-ex](https://github.com/skwjdgh/Programmers-ex)/ – 문제풀이 정리
 
 ---
 

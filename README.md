@@ -145,29 +145,24 @@ skwjdgh/
 │   │   ├── README.md
 │   │   ├── html-css/
 │   │   │   ├── README.md
-│   │   │   └── ... (예: 반응형 웹 실습 등)
+│   │   │   └── ... 
 │   │   └── javascript/
 │   │       ├── README.md
-│   │       └── ... (예: ES6, DOM, 프레임워크 등)
+│   │       └── ... 
 │   │
 │   ├── Back/
 │   │   ├── README.md
 │   │   ├── python/
 │   │   │   ├── README.md
-│   │   │   ├── basics.md
-│   │   │   ├── advanced.md
-│   │   │   └── ... (예제, 실습, 세미나 등)
+│   │   │   └── ... 
 │   │   ├── java/
 │   │   │   ├── README.md
-│   │   │   └── ... (정리, 예제)
+│   │   │   └── ... 
 │   │   ├── c/
 │   │   │   ├── README.md
-│   │   │   └── ... (주제별 정리, C++/C# 비교 등)
+│   │   │   └── ... 
 │   │   └── sql/
-│   │       ├── README.md
-│   │       ├── mysql.md
-│   │       ├── mariadb.md
-│   │       └── db-design.md
+│   │       └── README.md
 │   │
 │   └── External/
 │       ├── README.md

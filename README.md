@@ -183,9 +183,7 @@ skwjdgh/
 │           └── cloud.md
 │
 └── problem-solving/                 # 문제풀이 정리
-    ├── python/
-    ├── java/
-    └── sql/
+
 
 ```
 

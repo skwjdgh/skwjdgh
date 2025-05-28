@@ -141,27 +141,28 @@ skwjdgh/
 │   └── visualization/
 │
 ├── study/                           # 기술/언어별 학습 정리
-│   ├── Front/
+│   ├── Front/ <https://github.com/skwjdgh/Front>
 │   │   ├── README.md
-│   │   ├── html-css/
+│   │   ├── html-css/ <https://github.com/skwjdgh/Web101_study>
 │   │   │   ├── README.md
 │   │   │   └── ... 
 │   │   └── javascript/
 │   │       ├── README.md
 │   │       └── ... 
 │   │
-│   ├── Back/
+│   ├── Back/ <https://github.com/skwjdgh/Back>
 │   │   ├── README.md
-│   │   ├── python/
+│   │   ├── python/ <https://github.com/skwjdgh/Python101_study>
+│   │   │   ├── homework/ <https://github.com/skwjdgh/Python101_homework>
 │   │   │   ├── README.md
 │   │   │   └── ... 
-│   │   ├── java/
+│   │   ├── java/ <https://github.com/skwjdgh/JAVA101_study>
 │   │   │   ├── README.md
 │   │   │   └── ... 
-│   │   ├── c/
+│   │   ├── c/ <https://github.com/skwjdgh/C101_study>
 │   │   │   ├── README.md
 │   │   │   └── ... 
-│   │   └── sql/
+│   │   └── sql/ <https://github.com/skwjdgh/Database101_study>
 │   │       └── README.md
 │   │
 │   └── External/
@@ -169,15 +170,15 @@ skwjdgh/
 │       ├── r/
 │       │   ├── README.md
 │       │   └── ... (기초/활용)
-│       ├── langchain-ollama/
+│       ├── seminar/ <https://github.com/skwjdgh/related-with-AI-semi->
 │       │   ├── README.md
 │       │   └── ... (세미나/실습/정리)
-│       └── tools/
+│       └── tools/ <https://github.com/skwjdgh/Tools>
 │           ├── vscode.md
 │           ├── docker.md
 │           └── cloud.md
 │
-└── problem-solving/                 # 문제풀이 정리
+└── programmers-ex/ <https://github.com/skwjdgh/Programmers-ex>                # 문제풀이 정리
 
 
 ```

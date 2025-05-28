@@ -121,7 +121,71 @@
 
 ### 이 Github의 구조
 
-
+skwjdgh/
+│
+├─ README.md                # 전체 소개 및 포트폴리오 요약
+│
+├─ projects/                # 프로젝트별 폴더
+│   ├─ ai-kiosk/
+│   │   ├─ README.md
+│   │   └─ (관련 코드/문서)
+│   ├─ future-job/
+│   │   ├─ README.md
+│   │   └─ (관련 코드/문서)
+│   └─ power-management/
+│       ├─ README.md
+│       └─ (관련 코드/문서)
+│
+├─ portfolio/               # 포트폴리오 웹/시각화 관련 자료
+│   ├─ web/
+│   └─ visualization/
+│
+├─ study/                   # 기술/언어별 학습 정리 (Front/Back/External)
+│   ├─ Front/
+│   │   ├─ README.md
+│   │   ├─ html-css/
+│   │   │   ├─ README.md
+│   │   │   └─ (예: 반응형 웹 실습 등)
+│   │   └─ javascript/
+│   │       ├─ README.md
+│   │       └─ (예: ES6, DOM, 프레임워크 등)
+│   │
+│   ├─ Back/
+│   │   ├─ README.md
+│   │   ├─ python/
+│   │   │   ├─ README.md
+│   │   │   ├─ basics.md
+│   │   │   ├─ advanced.md
+│   │   │   └─ (예제, 실습, 세미나 등)
+│   │   ├─ java/
+│   │   │   ├─ README.md
+│   │   │   └─ (정리, 예제)
+│   │   ├─ c/
+│   │   │   ├─ README.md
+│   │   │   └─ (주제별 정리, C++/C# 비교 등)
+│   │   └─ sql/
+│   │       ├─ README.md
+│   │       ├─ mysql.md
+│   │       ├─ mariadb.md
+│   │       └─ db-design.md
+│   │
+│   └─ External/
+│       ├─ README.md
+│       ├─ r/
+│       │   ├─ README.md
+│       │   └─ (기초/활용)
+│       ├─ langchain-ollama/
+│       │   ├─ README.md
+│       │   └─ (세미나/실습/정리)
+│       └─ tools/
+│           ├─ vscode.md
+│           ├─ docker.md
+│           └─ cloud.md
+│
+└─ problem-solving/         # 프로그래머스 등 문제풀이 정리
+    ├─ python/
+    ├─ java/
+    └─ sql/
 
 
 ---

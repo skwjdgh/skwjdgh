@@ -243,4 +243,4 @@ gantt
 
 ```
 <p align='center'>
-      <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=&descAlign=59&section=footer">
+      <img src="https://capsule-render.vercel.app/api?type=waving&height=1500&color=gradient&text=&descAlign=59&section=footer">

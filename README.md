@@ -1,3 +1,9 @@
+<h1 align="left">
+        <a href="https://github.com/skwjdgh/skwjdgh/blob/main/README_ENG.md">
+    <img align="right" src="https://img.shields.io/badge/Language-English-blue.svg" />
+  </a>
+</h1>
+
 <p align='center'>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=나정호%20입니다.&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Conanti%20Dabitur!&descAlignY=51&descAlign=62"/>
       

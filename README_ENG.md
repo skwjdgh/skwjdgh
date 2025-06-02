@@ -1,6 +1,6 @@
 <h1 align="left">
         <a href="https://github.com/skwjdgh/skwjdgh/blob/main/README.md">
-    <img align="right" src="https://img.shields.io/badge/Translate-Korean-red.svg" />
+    <img align="right" src="https://img.shields.io/badge/Translate-한국어-red.svg" />
   </a>
 </h1>
 

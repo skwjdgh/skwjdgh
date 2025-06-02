@@ -138,18 +138,14 @@ skwjdgh/
 └── programmers-ex/
 ```
 
-- Front: [Front](https://github.com/skwjdgh/Front)  
-- html-css: [Web101_study](https://github.com/skwjdgh/Web101_study)  
-- Back: [Back](https://github.com/skwjdgh/Back)  
-  - python: [Python101_study](https://github.com/skwjdgh/Python101_study)  
-    - homework: [Python101_homework](https://github.com/skwjdgh/Python101_homework)  
-  - java: [JAVA101_study](https://github.com/skwjdgh/JAVA101_study)  
-  - c: [C101_study](https://github.com/skwjdgh/C101_study)  
-  - sql: [Database101_study](https://github.com/skwjdgh/Database101_study)  
-- seminar: [related-with-AI-semi-](https://github.com/skwjdgh/related-with-AI-semi-)  
-- tools: [Tools](https://github.com/skwjdgh/Tools)  
-- programmers-ex: [Programmers-ex](https://github.com/skwjdgh/Programmers-ex)
 
+- Front: [Front](https://github.com/skwjdgh/Front)  
+- Back: [Back](https://github.com/skwjdgh/Back)
+- External: [External](https://github.com/skwjdgh/External)
+
+- seminar: [related-with-AI-semi-](https://github.com/skwjdgh/related-with-AI-semi-)  
+- programmers-ex: [Programmers-ex](https://github.com/skwjdgh/Programmers-ex)
+- homework: [Python101_homework](https://github.com/skwjdgh/Python101_homework)  
 
 ---
 

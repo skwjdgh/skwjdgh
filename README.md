@@ -1,5 +1,5 @@
 <p align='center'>
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,ffff00,00ff00&height=300&section=header&text=나정호%20입니다.&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Conanti%20Dabitur!&descAlignY=51&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,ffff00,00ff00&height=300&section=header&text=나정호%20입니다.&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Conanti%20Dabitur!&descAlignY=51&descAlign=62"/>
       
 개발자이자 데이터 분석가를 목표로, 항상 새로운 기술을 배우고 실험하는 것을 좋아합니다.  
 현재는 Python, SQL, AI/ML 관련 프로젝트를 진행 중이며, 지속적으로 포트폴리오를 확장하고 있습니다.

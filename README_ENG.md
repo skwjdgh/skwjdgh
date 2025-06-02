@@ -50,15 +50,16 @@
 
 #### Programming Languages
 
-* Python, Java, C, C++, SQL, R, HTML, CSS, JavaScript
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&link=www.naver.com)  ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=openjdk&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 
 #### Development Tools & Environment
 
-* OS: Windows 11
-* IDEs: VS Code, IntelliJ IDEA, PyCharm, SQL Developer
-* DevOps: Git, GitHub Actions, Jenkins
-* Virtualization: Docker
-* Cloud: AWS, Azure, GCP
+* OS: ![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=plastic&logo=windows&logoColor=white)  
+* IDEs: ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=plastic&logo=intellij-idea&logoColor=white)  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=green)  ![SQL Developer](https://img.shields.io/badge/SQL_Developer-F80000?style=plastic&logo=oracle&logoColor=white)
+* DevOps: ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white)
+* Virtualization: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+* Cloud: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=FF9900)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=plastic&logo=microsoft-azure&logoColor=white)  ![GCP](https://img.shields.io/badge/GCP-4285F4?style=plastic&logo=google-cloud&logoColor=white)
+
 
 ---
 

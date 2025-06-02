@@ -20,27 +20,38 @@
 
 ## 💻 진행 중인 프로젝트
 
-1. **한이음 공모전 - 공공기반 AI 키오스크 (25년 중)**  
-   - AI agent 기반 공공기관 목적용 AI 키오스크을 개발 중입니다.
-     
-2. **미래내일 일자리(25년 중)**  
+<details>
+<summary>펼치기 👇</summary>
 
-3. **(개인1)(계획)인공지능 기술를 활용한 전력 관리 시스템(25년 중)**
-   - 인공지능 기술을 활용해 전력망 관리 시스템 개발을 목표로 합니다.
-  
+1. **한이음 공모전 - 공공기반 AI 키오스크 (25년 중)**  
+   - AI agent 기반 공공기관 목적용 키오스크 개발
+
+2. **미래내일 일자리(25년 중)**
+
+3. **개인 프로젝트 - 인공지능 기반 전력 관리 시스템 (25년 중)**  
+   - 인공지능 기술을 활용한 전력망 최적화 시스템 개발 목표
+
+</details>
 ---
 
 ## 🎓 학력 사항
 
+<details>
+<summary>펼치기 👇</summary>
+
 **숭실대학교 (SoongSil University)**  
-정보통신전자공학부 학사 
+정보통신전자공학부 학사  
 2009.03 – 2018.02  
-- 주요 수강 과목: 디지털 공학, 컴퓨터 구조, 회로이론, 신호 및 시스템, 컴퓨터통신망, 데이터통신
+- 주요 과목: 디지털 공학, 컴퓨터 구조, 회로이론, 신호 및 시스템, 데이터통신 등
+</details>
 
 ---
 
 ## ✈️ 어학연수 경험
 
+<details>
+<summary>펼치기 👇</summary>
+      
 **Greenriver Community College(IESL)**  
 2007.12 ~ 2008.07  
 
@@ -49,11 +60,14 @@
 - 집중 영어 프로그램(회화, 작문, 청취) 수강  
 - 다양한 국적의 학생들과 프로젝트 수행
 - 기초 전공과목 수강 -
-  
+
+</details>
 ---
 
 ## 💼 경력 사항
-
+<details>
+<summary>펼치기 👇</summary>
+      
 **성우산업 주식회사**  
 - 수처리 전문기업  
 - 회계 및 재무 관련 문서 정리, 장부 관리  
@@ -68,11 +82,14 @@
 - 신재생에너지(태양광) 관련 사업
 - 태양광 발전소 운영 지원  
 - 시공·발주 협의 보조, 현장 점검 및 관련 문서 작성
-
+</details>
 ---
 
 ## 📜 보유 자격증
 
+<details>
+<summary>펼치기 👇</summary>
+      
 ### 📌 보유
 - 네트워크 관리사 2급
 - 한국사 1급
@@ -89,11 +106,14 @@
 - 빅데이터분석기사 (8–12월 중)
 - 전기산업기사 (7–9월 중)
 - 영어 자격증 (토익, 토스), 한국사, KBS 한국어 *(재취득 예정)*
-  
+</details>  
 ---
 
 ## ⚙️ 기술 스택
 
+<details>
+<summary>펼치기 👇</summary>
+      
 ### 🛠️ 주요 언어
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwjdgh&layout=compact&theme=radical)
 
@@ -108,11 +128,16 @@
 - 빌드/배포:  
 - 가상화: 🐳 Docker
 - 클라우드:
-  
+
+
+</details>
 ---
 
 ### 🔧 이 Github의 구조
 
+<details>
+<summary>펼치기 👇</summary>
+      
 ```
 skwjdgh/
 ├── portfolio/
@@ -146,11 +171,15 @@ skwjdgh/
    - [🧠 세미나](https://github.com/skwjdgh/related-with-AI-semi-)<br>
    - [💻 코딩 연습 문제](https://github.com/skwjdgh/Programmers-ex)<br>
    - [📝 파이썬 과제 모음](https://github.com/skwjdgh/Python101_homework)<br>
-
+   
+</details>
 ---
 
 ## ✏️ 추가목표
 
+<details>
+<summary>펼치기 👇</summary>
+      
 ### 🌐 포트폴리오 및 시각화
 - (9–10월 예정) 포트폴리오 웹사이트 제작 및 배포
 - 활동 통계 시각화
@@ -212,5 +241,6 @@ gantt
   R 언어 정리 및 분석      :planned, 2025-07-01, 2025-07-30
 
 ```
+</details>
 <p align='center'>
       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=&descAlign=59&section=footer">

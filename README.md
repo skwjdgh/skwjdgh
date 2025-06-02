@@ -137,16 +137,17 @@ skwjdgh/
 │       └── tools/
 └── programmers-ex/
 ```
+📂 주요 저장소 (Main Repositories
+- [🗂️ portfolio](https://github.com/skwjdgh/Portfolio)<br>
+- [🚧 Project](https://github.com/skwjdgh/Project)<br>
+- [🎨 Front-End](https://github.com/skwjdgh/Front)<br>
+- [🖥️ Back-End](https://github.com/skwjdgh/Back)<br>
+- [📦 External 리소스](https://github.com/skwjdgh/External)<br>
 
-- Portfolio: [portfolio](https://github.com/skwjdgh/Portfolio)<br>
-- Project: [Project](https://github.com/skwjdgh/Project)<br>
-- Front: [Front](https://github.com/skwjdgh/Front)<br>
-- Back: [Back](https://github.com/skwjdgh/Back)<br>
-- External: [External](https://github.com/skwjdgh/External)<br>
-<br>
-   - seminar: [related-with-AI-semi-](https://github.com/skwjdgh/related-with-AI-semi-)<br>
-   - programmers-ex: [Programmers-ex](https://github.com/skwjdgh/Programmers-ex)<br>
-   - homework: [Python101_homework](https://github.com/skwjdgh/Python101_homework)<br>
+📎 기타 자료 (Additional / Reference)
+   - [🧠 세미나](https://github.com/skwjdgh/related-with-AI-semi-)<br>
+   - [💻 코딩 연습 문제](https://github.com/skwjdgh/Programmers-ex)<br>
+   - [📝 파이썬 과제 모음](https://github.com/skwjdgh/Python101_homework)<br>
 
 ---
 

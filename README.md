@@ -117,65 +117,32 @@
 
 ```
 skwjdgh/
-├── README.md                        # 전체 소개 및 포트폴리오 요약
-│
-├── projects/                        # 프로젝트별 폴더
-│   ├── ai-kiosk/
-│   │   ├── README.md
-│   │   └── ... (관련 코드/문서)
-│   ├── future-job/
-│   │   ├── README.md
-│   │   └── ... (관련 코드/문서)
-│   └── power-management/
-│       ├── README.md
-│       └── ... (관련 코드/문서)
-│
-├── portfolio/                       # 포트폴리오 웹/시각화 자료
-│   ├── web/
-│   └── visualization/
-│
-├── study/                           # 기술/언어별 학습 정리
-│   ├── Front/ <https://github.com/skwjdgh/Front>
-│   │   ├── README.md
-│   │   ├── html-css/ <https://github.com/skwjdgh/Web101_study>
-│   │   │   ├── README.md
-│   │   │   └── ... 
-│   │   └── javascript/
-│   │       ├── README.md
-│   │       └── ... 
-│   │
-│   ├── Back/ <https://github.com/skwjdgh/Back>
-│   │   ├── README.md
-│   │   ├── python/ <https://github.com/skwjdgh/Python101_study>
-│   │   │   ├── homework/ <https://github.com/skwjdgh/Python101_homework>
-│   │   │   ├── README.md
-│   │   │   └── ... 
-│   │   ├── java/ <https://github.com/skwjdgh/JAVA101_study>
-│   │   │   ├── README.md
-│   │   │   └── ... 
-│   │   ├── c/ <https://github.com/skwjdgh/C101_study>
-│   │   │   ├── README.md
-│   │   │   └── ... 
-│   │   └── sql/ <https://github.com/skwjdgh/Database101_study>
-│   │       └── README.md
-│   │
+├── study/
+│   ├── Front/
+│   │   ├── html-css/
+│   ├── Back/
+│   │   ├── python/
+│   │   ├── java/
+│   │   ├── c/
+│   │   └── sql/
 │   └── External/
-│       ├── README.md
-│       ├── r/
-│       │   ├── README.md
-│       │   └── ... (기초/활용)
-│       ├── seminar/ <https://github.com/skwjdgh/related-with-AI-semi->
-│       │   ├── README.md
-│       │   └── ... (세미나/실습/정리)
-│       └── tools/ <https://github.com/skwjdgh/Tools>
-│           ├── vscode.md
-│           ├── docker.md
-│           └── cloud.md
-│
-└── programmers-ex/ <https://github.com/skwjdgh/Programmers-ex>                # 문제풀이 정리
-
-
+│       ├── seminar/
+│       └── tools/
+└── programmers-ex/
 ```
+
+- Front: [Front](https://github.com/skwjdgh/Front)  
+- html-css: [Web101_study](https://github.com/skwjdgh/Web101_study)  
+- Back: [Back](https://github.com/skwjdgh/Back)  
+  - python: [Python101_study](https://github.com/skwjdgh/Python101_study)  
+    - homework: [Python101_homework](https://github.com/skwjdgh/Python101_homework)  
+  - java: [JAVA101_study](https://github.com/skwjdgh/JAVA101_study)  
+  - c: [C101_study](https://github.com/skwjdgh/C101_study)  
+  - sql: [Database101_study](https://github.com/skwjdgh/Database101_study)  
+- seminar: [related-with-AI-semi-](https://github.com/skwjdgh/related-with-AI-semi-)  
+- tools: [Tools](https://github.com/skwjdgh/Tools)  
+- programmers-ex: [Programmers-ex](https://github.com/skwjdgh/Programmers-ex)
+
 
 ---
 

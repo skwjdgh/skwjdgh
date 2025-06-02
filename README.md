@@ -175,8 +175,8 @@ skwjdgh/
 📂 주요 저장소 (Main Repositories
 - [🗂️ 포트폴리오](https://github.com/skwjdgh/Portfolio)<br>
 - [🚧 프로젝트](https://github.com/skwjdgh/Project)<br>
-- [🎨 Front-End](https://github.com/skwjdgh/Front)<br>
-- [🖥️ Back-End](https://github.com/skwjdgh/Back)<br>
+- [🎨 프론트엔드](https://github.com/skwjdgh/Front)<br>
+- [🖥️ 백엔드](https://github.com/skwjdgh/Back)<br>
 - [📦 기타 리소스](https://github.com/skwjdgh/External)<br>
 
 📎 기타 자료 (Additional / Reference)

@@ -176,41 +176,10 @@ skwjdgh/
    - [📝 파이썬 과제 모음](https://github.com/skwjdgh/Python101_homework)<br>
    
 ---
+
 # ✏️ 중단기 목표 및 일정
 
 학습부터 프로젝트까지, 진행 중인 내용과 계획 중인 항목을 구분해 정리했습니다.
-
-<details>
-<summary>펼치기 👇</summary>
-
-## ✏️ 추가목표
-- 중단기 목표를 수립하고, 이를 기반으로 기술 학습과 프로젝트 일정을 체계적으로 관리하고 있습니다.
-      
-### 🌐 포트폴리오 및 시각화
-- (9–10월 예정) 포트폴리오 웹사이트 제작 및 배포
-- 활동 통계 시각화
-
-### 🧠 학습 내용 재구성 및 정리
-1. **Python (6–9월)**: 미흡 코드 재설계 및 삭제, 일자별 → 주제별 폴더 정리  
-2. **C 언어 (6월 중)**: 주제별 학습 정리 + C++, C# 차이 분석  
-3. **SQL (6월 중)**: MySQL/MariaDB 정리, 명령어별 용도 정리, DB설계 예제 추가 (볼링, 마트)  
-4. **HTML/CSS (6–10월)**: 반응형 웹 기준으로 스타일 숙달  
-5. **Java (6–9월)**: 수업 중
-    
-### 📚 개인 공부 및 실습
-1. **(8월)**: tkinter, Flask, pandas, NumPy, Matplotlib, seaborn  
-2. **(8월)**: R 언어 개인 공부  
-3. **(6월)**: LangChain, Ollama, LLaMA 내용 정리 (세미나 연계)  
-4. **(12월까지)**: 프로그래머스 문제풀이 → GitHub에 보기 좋게 정리
-
-</details>
-
----
-
-![나정호's GitHub stats](https://github-readme-stats.vercel.app/api?username=skwjdgh)
-![trophy](https://github-profile-trophy.vercel.app/?username=skwjdgh&theme=radical)
-
----
 
 ```mermaid
 gantt
@@ -250,8 +219,37 @@ gantt
 
 ```
 
-<br>
-<br>
+<details>
+<summary>펼치기 👇</summary>
+
+## ✏️ 추가목표
+- 중단기 목표를 수립하고, 이를 기반으로 기술 학습과 프로젝트 일정을 체계적으로 관리하고 있습니다.
+      
+### 🌐 포트폴리오 및 시각화
+- (9–10월 예정) 포트폴리오 웹사이트 제작 및 배포
+- 활동 통계 시각화
+
+### 🧠 학습 내용 재구성 및 정리
+1. **Python (6–9월)**: 미흡 코드 재설계 및 삭제, 일자별 → 주제별 폴더 정리  
+2. **C 언어 (6월 중)**: 주제별 학습 정리 + C++, C# 차이 분석  
+3. **SQL (6월 중)**: MySQL/MariaDB 정리, 명령어별 용도 정리, DB설계 예제 추가 (볼링, 마트)  
+4. **HTML/CSS (6–10월)**: 반응형 웹 기준으로 스타일 숙달  
+5. **Java (6–9월)**: 수업 중
+    
+### 📚 개인 공부 및 실습
+1. **(8월)**: tkinter, Flask, pandas, NumPy, Matplotlib, seaborn  
+2. **(8월)**: R 언어 개인 공부  
+3. **(6월)**: LangChain, Ollama, LLaMA 내용 정리 (세미나 연계)  
+4. **(12월까지)**: 프로그래머스 문제풀이 → GitHub에 보기 좋게 정리
+
+</details>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skwjdgh" alt="나정호's GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=skwjdgh&theme=radical" alt="trophy" />
+</p>
 
 <p align='center'>
       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=&descAlign=59&section=footer">

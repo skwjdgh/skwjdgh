@@ -203,6 +203,8 @@ skwjdgh/
 3. **(6월)**: LangChain, Ollama, LLaMA 내용 정리 (세미나 연계)  
 4. **(12월까지)**: 프로그래머스 문제풀이 → GitHub에 보기 좋게 정리
 
+</details>
+
 ---
 
 ![나정호's GitHub stats](https://github-readme-stats.vercel.app/api?username=skwjdgh)
@@ -247,7 +249,7 @@ gantt
   R 언어 정리 및 분석                      :planned, 2025-07-01, 2025-07-30
 
 ```
-</details>
+
 <br>
 <br>
 

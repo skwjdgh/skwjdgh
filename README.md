@@ -140,7 +140,7 @@
 
 ---
 
-# 🔧 이 Repository 의 구조
+# 📊 이 Repository 의 구조
 - 이 Repository 의 구조입니다.
       
 ```

@@ -117,6 +117,13 @@
 
 ```
 skwjdgh/
+├── portfolio/
+│   ├── web/
+│   └── visualization/
+├── projects/
+│   ├── ai-kiosk/
+│   ├── future-job/
+│   └── power-management/
 ├── study/
 │   ├── Front/
 │   │   ├── html-css/

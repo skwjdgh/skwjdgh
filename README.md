@@ -138,14 +138,15 @@ skwjdgh/
 └── programmers-ex/
 ```
 
-
-- Front: [Front](https://github.com/skwjdgh/Front)  
-- Back: [Back](https://github.com/skwjdgh/Back)
-- External: [External](https://github.com/skwjdgh/External)
-
-- seminar: [related-with-AI-semi-](https://github.com/skwjdgh/related-with-AI-semi-)  
-- programmers-ex: [Programmers-ex](https://github.com/skwjdgh/Programmers-ex)
-- homework: [Python101_homework](https://github.com/skwjdgh/Python101_homework)  
+- Portfolio: [portfolio](https://github.com/skwjdgh/Portfolio)<br>
+- Project: [Project](https://github.com/skwjdgh/Project)<br>
+- Front: [Front](https://github.com/skwjdgh/Front)<br>
+- Back: [Back](https://github.com/skwjdgh/Back)<br>
+- External: [External](https://github.com/skwjdgh/External)<br>
+<br>
+   - seminar: [related-with-AI-semi-](https://github.com/skwjdgh/related-with-AI-semi-)<br>
+   - programmers-ex: [Programmers-ex](https://github.com/skwjdgh/Programmers-ex)<br>
+   - homework: [Python101_homework](https://github.com/skwjdgh/Python101_homework)<br>
 
 ---
 

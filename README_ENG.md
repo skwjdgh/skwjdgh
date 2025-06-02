@@ -6,7 +6,7 @@
 
 
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I’m%20Jung-Ho%20Na&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Conanti%20Dabitur!&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I’m%20JungHo%20Na&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Conanti%20Dabitur!&descAlignY=51&descAlign=62"/>
 </p>
 
 

@@ -138,11 +138,11 @@ skwjdgh/
 └── programmers-ex/
 ```
 📂 주요 저장소 (Main Repositories
-- [🗂️ portfolio](https://github.com/skwjdgh/Portfolio)<br>
-- [🚧 Project](https://github.com/skwjdgh/Project)<br>
+- [🗂️ 포트폴리오](https://github.com/skwjdgh/Portfolio)<br>
+- [🚧 프로젝트](https://github.com/skwjdgh/Project)<br>
 - [🎨 Front-End](https://github.com/skwjdgh/Front)<br>
 - [🖥️ Back-End](https://github.com/skwjdgh/Back)<br>
-- [📦 External 리소스](https://github.com/skwjdgh/External)<br>
+- [📦 기타 리소스](https://github.com/skwjdgh/External)<br>
 
 📎 기타 자료 (Additional / Reference)
    - [🧠 세미나](https://github.com/skwjdgh/related-with-AI-semi-)<br>

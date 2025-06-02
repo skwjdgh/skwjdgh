@@ -11,47 +11,28 @@
 
 ---
 
-## 💡 관심 있는 분야
+# 💡 관심 있는 분야
 
 - AI/ML: 데이터 분석 및 머신러닝 모델 개발
 - 데이터베이스: SQL을 통한 데이터 분석, 모델링 및 성능 최적화
 
 ---
-
-## 💻 진행 중인 프로젝트
+# 🧑‍💼 학력·경험
+전공을 통해 기초 기술을 쌓는 한편, 국내외 다양한 환경에서 쌓은 경험을 통해 실무 감각과 글로벌 시야를 함께 키웠습니다.
 
 <details>
 <summary>펼치기 👇</summary>
-
-1. **한이음 공모전 - 공공기반 AI 키오스크 (25년 중)**  
-   - AI agent 기반 공공기관 목적용 키오스크 개발
-
-2. **미래내일 일자리(25년 중)**
-
-3. **개인 프로젝트 - 인공지능 기반 전력 관리 시스템 (25년 중)**  
-   - 인공지능 기술을 활용한 전력망 최적화 시스템 개발 목표
-
-</details>
-
----
-
+      
 ## 🎓 학력 사항
-
-<details>
-<summary>펼치기 👇</summary>
 
 **숭실대학교 (SoongSil University)**  
 정보통신전자공학부 학사  
 2009.03 – 2018.02  
 - 주요 과목: 디지털 공학, 컴퓨터 구조, 회로이론, 신호 및 시스템, 데이터통신 등
-</details>
 
 ---
 
 ## ✈️ 어학연수 경험
-
-<details>
-<summary>펼치기 👇</summary>
       
 **Greenriver Community College(IESL)**  
 2007.12 ~ 2008.07  
@@ -62,14 +43,10 @@
 - 다양한 국적의 학생들과 프로젝트 수행
 - 기초 전공과목 수강 -
 
-</details>
-
 ---
 
 ## 💼 경력 사항
-<details>
-<summary>펼치기 👇</summary>
-      
+  
 **성우산업 주식회사**  
 - 수처리 전문기업  
 - 회계 및 재무 관련 문서 정리, 장부 관리  
@@ -84,15 +61,60 @@
 - 신재생에너지(태양광) 관련 사업
 - 태양광 발전소 운영 지원  
 - 시공·발주 협의 보조, 현장 점검 및 관련 문서 작성
+  
 </details>
 
 ---
 
-## 📜 보유 자격증
+# 💻 기술과 프로젝트
+직접 다뤄본 기술과, 그것을 실제로 활용할 프로젝트 중심으로 구성했습니다.
 
 <details>
 <summary>펼치기 👇</summary>
+
+## ⚙️ 기술 스택
+- 사용하고 숙달 중인 언어와 도구들을 정리했습니다. 현재도 지속적으로 확장 중 입니다.
+
       
+### 🛠️ 주요 언어
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwjdgh&layout=compact&theme=radical)
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&link=www.naver.com)  ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=openjdk&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+
+### 🛠️ 개발환경
+
+- 운영체제: 🪟 Windows 11  
+- 개발도구: 💻 VS Code, IntelliJ, PyCharm  
+- 빌드/배포:  
+- 가상화: 🐳 Docker
+- 클라우드:
+
+## 💻 진행 중인 프로젝트
+- 데이터와 AI 기술을 활용해 현실 문제를 해결하는 프로젝트들을 진행하고 있습니다.
+
+1. **한이음 공모전 - 공공기반 AI 키오스크 (25년 중)**  
+   - AI agent 기반 공공기관 목적용 키오스크 개발
+
+2. **미래내일 일자리(25년 중)**
+
+3. **개인 프로젝트 - 인공지능 기반 전력 관리 시스템 (25년 중)**  
+   - 인공지능 기술을 활용한 전력망 최적화 시스템 개발 목표
+
+</details>
+
+---
+
+# 📘 자격 및 학습
+
+풀스택 개발자를 목표로 자격증 취득과 학습을 진행하고 있습니다.
+단기적으로는 데이터 분석, 프로그래밍, 보안 등 실무에 직접 활용 가능한 기술을 강화하고, 장기적으로는 AI 및 빅데이터 분야의 전문성을 확대하는 것을 목표로 하고 있습니다.
+
+<details>
+<summary>펼치기 👇</summary>
+
+## 📜 보유 자격증
+- 학습의 깊이와 넓이를 확장하며 실무 중심의 자격증을 꾸준히 준비 중입니다.
+    
 ### 📌 보유
 - 네트워크 관리사 2급
 - 한국사 1급
@@ -106,42 +128,17 @@
 
 ### 📌 계획 중
 - AICE 자격 Associate 등급
-- 빅데이터분석기사 (8–12월 중)
-- 전기산업기사 (7–9월 중)
+- 웹디자인개발기능사 (6월 ~ 9월 중)
+- 빅데이터분석기사 (8 – 12월 중)
+- 전기산업기사 (7 – 9월 중)
 - 영어 자격증 (토익, 토스), 한국사, KBS 한국어 *(재취득 예정)*
-</details>  
-
----
-
-## ⚙️ 기술 스택
-
-<details>
-<summary>펼치기 👇</summary>
-      
-### 🛠️ 주요 언어
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skwjdgh&layout=compact&theme=radical)
-
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&link=www.naver.com)  ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=openjdk&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-
-
-
-### 🛠️ 개발환경
-
-- 운영체제: 🪟 Windows 11  
-- 개발도구: 💻 VS Code, IntelliJ, PyCharm  
-- 빌드/배포:  
-- 가상화: 🐳 Docker
-- 클라우드:
-
-
+ 
 </details>
 
 ---
 
-### 🔧 이 Github의 구조
-
-<details>
-<summary>펼치기 👇</summary>
+# 🔧 이 Repository 의 구조
+- 이 Repository 의 구조입니다.
       
 ```
 skwjdgh/
@@ -178,14 +175,16 @@ skwjdgh/
    - [💻 코딩 연습 문제](https://github.com/skwjdgh/Programmers-ex)<br>
    - [📝 파이썬 과제 모음](https://github.com/skwjdgh/Python101_homework)<br>
    
-</details>
-
 ---
+# ✏️ 중단기 목표 및 일정
 
-## ✏️ 추가목표
+학습부터 프로젝트까지, 진행 중인 내용과 계획 중인 항목을 구분해 정리했습니다.
 
 <details>
 <summary>펼치기 👇</summary>
+
+## ✏️ 추가목표
+- 중단기 목표를 수립하고, 이를 기반으로 기술 학습과 프로젝트 일정을 체계적으로 관리하고 있습니다.
       
 ### 🌐 포트폴리오 및 시각화
 - (9–10월 예정) 포트폴리오 웹사이트 제작 및 배포
@@ -219,35 +218,38 @@ gantt
   section 진행 중
   **정보처리기사(필기)(2025-05-10)**       :done, 2025-05-10, 2025-05-10
   정보처리기사(실기)                       :active, 2025-05-01, 2025-07-31
-  SQLD                                    :active, 2025-05-01, 2025-05-31
-  **SQLD(2025-05-31)**                    :active, 2025-05-31, 2025-05-31
-  ADSP                                    :active, 2025-05-01, 2025-05-17
+  SQLD                                    :done, 2025-05-01, 2025-05-31
+  **SQLD(2025-05-31)**                    :done, 2025-05-31, 2025-05-31
+  ADSP                                    :done, 2025-05-01, 2025-05-17
   **ADSP(2025-05-17)**                    :done, 2025-05-17, 2025-05-17
   정보보안기사                             :active, 2025-05-01, 2025-07-31
   **정보보안기사(필기)(2025-06-09)**                    :active, 2025-06-09, 2025-06-09
 
   section 진행 중인 프로젝트
-  공공기반 AI 키오스크 개발  :active, 2025-05-01, 2025-12-31
-  미래내일 일자리 프로젝트   :active, 2025-05-01, 2025-08-31
-  전력 관리 시스템 개발    :planned, 2025-06-01, 2025-12-31
+  공공기반 AI 키오스크 개발                 :active, 2025-05-01, 2025-12-31
+  미래내일 일자리 프로젝트                   :active, 2025-05-01, 2025-08-31
+  전력 관리 시스템 개발                     :planned, 2025-06-01, 2025-12-31
 
   section 계획 중
   AICE Associate 등급                     :planned, 2025-06-01, 2025-08-31
   빅데이터분석기사                          :planned, 2025-08-01, 2025-12-31
   전기산업기사                             :planned, 2025-07-01, 2025-09-30
-  영어 자격증(토익, 토스)                  :planned, 2025-06-01, 2025-10-31
+  영어 자격증(토익, 토스)                   :planned, 2025-06-01, 2025-10-31
   한국사, KBS 한국어                        :planned, 2025-06-01, 2025-08-31
-  JLPT                                     :planned, 2025-06-01, 2025-08-31
+  웹디자인개발기능사                        :planned, 2025-06-09, 2025-09-17
 
   section 추가 목표
-  포트폴리오 웹사이트 제작  :planned, 2025-09-01, 2025-10-31
-  활동 통계 시각화         :planned, 2025-09-01, 2025-10-31
-  C 언어 정리 및 분석      :planned, 2025-06-01, 2025-06-30
-  Python 언어 정리 및 분석        :active, 2025-06-01, 2025-09-30
-  JAVA 언어 정리 및 분석        :active, 2025-06-01, 2025-09-30
-  R 언어 정리 및 분석      :planned, 2025-07-01, 2025-07-30
+  포트폴리오 웹사이트 제작                  :planned, 2025-09-01, 2025-10-31
+  활동 통계 시각화                          :planned, 2025-09-01, 2025-10-31
+  C 언어 정리 및 분석                      :planned, 2025-06-01, 2025-06-30
+  Python 언어 정리 및 분석                 :active, 2025-06-01, 2025-09-30
+  JAVA 언어 정리 및 분석                   :active, 2025-06-01, 2025-09-30
+  R 언어 정리 및 분석                      :planned, 2025-07-01, 2025-07-30
 
 ```
 </details>
+<br>
+<br>
+
 <p align='center'>
       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=&descAlign=59&section=footer">

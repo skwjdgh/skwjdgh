@@ -113,8 +113,6 @@
 
 ### 🔧 이 Github의 구조
 
-
-
 ```
 skwjdgh/
 ├── portfolio/

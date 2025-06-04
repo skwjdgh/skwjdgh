@@ -180,7 +180,7 @@ skwjdgh/
 - [📦 기타 리소스](https://github.com/skwjdgh/External)<br>
 
 📎 기타 자료 (Additional / Reference)
-   - [🧠 세미나](https://github.com/skwjdgh/related-with-AI-semi-)<br>
+   - [🧠 이론/세미나](https://github.com/skwjdgh/Theory-and-Seminar)<br>
    - [💻 코딩 연습 문제](https://github.com/skwjdgh/Programmers-ex)<br>
    - [📝 파이썬 과제 모음](https://github.com/skwjdgh/Python101_homework)<br>
    

@@ -68,6 +68,7 @@
 ### Certifications (Completed)
 
 * Network Administrator Level 2
+* ADSP
 * Korean History Level 1
 * KBS Korean Language Level 3+
 
@@ -75,7 +76,6 @@
 
 * Information Processing Engineer (Practical)
 * SQLD
-* ADSP
 * Information Security Engineer (Written: 2025-06-09)
 
 ### Planned
